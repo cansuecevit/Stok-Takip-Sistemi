@@ -1,0 +1,48 @@
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\bin\Debug\StokTakipSistemi.exe.config
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.csprojResolveAssemblyReference.cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.ADMIN.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.ANAMENU.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.BIRIMYETKİLİSİ.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.Properties.Resources.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.csproj.GenerateResource.Cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\bin\Debug\StokTakipSistemi.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\bin\Debug\StokTakipSistemi.pdb
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.pdb
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.GIRIS.resources
+C:\Users\Cansu Ecevit\Documents\Visual Studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.PARCAISLEMLERİ.resources
+C:\Users\Cansu Ecevit\Documents\Visual Studio 2015\Projects\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.ZIMMET.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\bin\Debug\StokTakipSistemi.exe.config
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.exe
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.pdb
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\bin\Debug\StokTakipSistemi.exe
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\bin\Debug\StokTakipSistemi.pdb
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.ADMIN.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.ANAMENU.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.BIRIMYETKİLİSİ.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.GIRIS.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.PARCAISLEMLERİ.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.Properties.Resources.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.ZIMMET.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi1\StokTakipSistemi\obj\Debug\StokTakipSistemi.KULLANICIISLEMLERI.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\bin\Debug\StokTakipSistemi.exe.config
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.exe
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.pdb
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\bin\Debug\StokTakipSistemi.exe
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\bin\Debug\StokTakipSistemi.pdb
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.ADMIN.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.ANAMENU.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.BIRIMYETKİLİSİ.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.GIRIS.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.KULLANICIISLEMLERI.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.PARCAISLEMLERİ.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.Properties.Resources.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.RAPORISLEMLERI.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.ZIMMET.resources
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\Cansu Ecevit\Desktop\3. Sınıf\Yazılım Sınama\c\StokTakipSistemi\StokTakipSistemi\bin\Debug\StokTakipSistemi.exe.config
+C:\Users\Cansu Ecevit\Desktop\3. Sınıf\Yazılım Sınama\c\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.exe
+C:\Users\Cansu Ecevit\Desktop\3. Sınıf\Yazılım Sınama\c\StokTakipSistemi\StokTakipSistemi\obj\Debug\StokTakipSistemi.pdb

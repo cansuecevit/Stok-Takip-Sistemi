@@ -1,0 +1,8 @@
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\obj\Debug\UnitTestStokTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\bin\Debug\UnitTestStokTakipSistemi.dll
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\bin\Debug\UnitTestStokTakipSistemi.pdb
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\bin\Debug\StokTakipSistemi.exe
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\bin\Debug\StokTakipSistemi.pdb
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\obj\Debug\UnitTestStokTakipSistemi.dll
+C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\obj\Debug\UnitTestStokTakipSistemi.pdb

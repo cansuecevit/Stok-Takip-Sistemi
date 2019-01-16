@@ -1,0 +1,6 @@
+﻿------ Run test started ------
+NUnit Adapter 3.12.0.0: Test execution started
+Running all tests in C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\bin\Debug\UnitTestStokTakipSistemi.dll
+   NUnit couldn't find any tests in C:\Users\Cansu Ecevit\Desktop\StokTakipSistemi\UnitTestStokTakipSistemi\bin\Debug\UnitTestStokTakipSistemi.dll
+NUnit Adapter 3.12.0.0: Test execution complete
+========== Run test finished: 5 run (0:00:00,6672161) ==========
